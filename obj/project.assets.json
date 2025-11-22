@@ -131,6 +131,22 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "OllamaSharp/5.4.11": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.AI.Abstractions": "10.0.0"
+        },
+        "compile": {
+          "lib/net9.0/OllamaSharp.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/OllamaSharp.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "OpenAI/2.7.0": {
         "type": "package",
         "dependencies": {
@@ -543,6 +559,31 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OllamaSharp/5.4.11": {
+      "sha512": "DPjkWbgZOb/y5jv+iNlGdFbJd0pWS3vllXJuttfNZcphfai7BHZBVKfWcN9azs15F7Fgeb4eGjB/CH+WEC/QIw==",
+      "type": "package",
+      "path": "ollamasharp/5.4.11",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "Ollama.png",
+        "README.md",
+        "analyzers/dotnet/cs/OllamaSharp.SourceGenerators.dll",
+        "lib/net10.0/OllamaSharp.dll",
+        "lib/net10.0/OllamaSharp.xml",
+        "lib/net8.0/OllamaSharp.dll",
+        "lib/net8.0/OllamaSharp.xml",
+        "lib/net9.0/OllamaSharp.dll",
+        "lib/net9.0/OllamaSharp.xml",
+        "lib/netstandard2.0/OllamaSharp.dll",
+        "lib/netstandard2.0/OllamaSharp.xml",
+        "lib/netstandard2.1/OllamaSharp.dll",
+        "lib/netstandard2.1/OllamaSharp.xml",
+        "ollamasharp.5.4.11.nupkg.sha512",
+        "ollamasharp.nuspec"
+      ]
+    },
     "OpenAI/2.7.0": {
       "sha512": "zodE/lrDzSUxgFzuHP+fiR56VBQZyy3H7le8VH9fiuB8SCgs7YSKpK/pwSpYZln3HVX6RyPDuALIOVPQMhnRFQ==",
       "type": "package",
@@ -870,7 +911,8 @@
     "net9.0": [
       "Microsoft.Extensions.AI >= 10.0.1",
       "Microsoft.Extensions.AI.Abstractions >= 10.0.1",
-      "Microsoft.Extensions.AI.OpenAI >= 10.0.1-preview.1.25571.5"
+      "Microsoft.Extensions.AI.OpenAI >= 10.0.1-preview.1.25571.5",
+      "OllamaSharp >= 5.4.11"
     ]
   },
   "packageFolders": {
@@ -934,6 +976,10 @@
           "Microsoft.Extensions.AI.OpenAI": {
             "target": "Package",
             "version": "[10.0.1-preview.1.25571.5, )"
+          },
+          "OllamaSharp": {
+            "target": "Package",
+            "version": "[5.4.11, )"
           }
         },
         "imports": [

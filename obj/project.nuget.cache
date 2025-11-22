@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "v/sDOnvOKKg=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\GenIa\\Demo3\\Demo3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.ai\\10.0.1\\microsoft.extensions.ai.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.0.1\\microsoft.extensions.ai.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.ai.openai\\10.0.1-preview.1.25571.5\\microsoft.extensions.ai.openai.10.0.1-preview.1.25571.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0\\microsoft.extensions.caching.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0\\microsoft.extensions.primitives.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\openai\\2.7.0\\openai.2.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.clientmodel\\1.8.1\\system.clientmodel.1.8.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.io.pipelines\\10.0.0\\system.io.pipelines.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.memory.data\\10.0.0\\system.memory.data.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.net.serversentevents\\9.0.9\\system.net.serversentevents.9.0.9.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.numerics.tensors\\10.0.0\\system.numerics.tensors.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.encodings.web\\10.0.0\\system.text.encodings.web.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.text.json\\10.0.0\\system.text.json.10.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.threading.channels\\10.0.0\\system.threading.channels.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
